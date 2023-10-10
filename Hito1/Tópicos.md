@@ -65,7 +65,7 @@ https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica-ra20
 
 
 
-## Adrián- Estudio de la programación del Arduino Mega 2560
+## Adrián- Estudio de la programación en Simulink del Arduino Mega 2560
 # 1) INSTALACIÓN
 
 Adds ons > Get Hardware support packages > Arduino > Simulink > setup >
