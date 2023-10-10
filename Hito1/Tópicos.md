@@ -1,5 +1,5 @@
-## Jose Carlos - Dispositivos y cableado
-## Johan - Estudio del Arduino Mega 2560
+# Jose Carlos - Dispositivos y cableado
+# Johan - Estudio del Arduino Mega 2560
 ## ***Estudio del Arduino mega 2560***
 
 
@@ -65,19 +65,19 @@ https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica-ra20
 
 
 
-## Adrián- Estudio de la programación en Simulink del Arduino Mega 2560
-# 1) INSTALACIÓN
+# Adrián - Estudio de la programación en Simulink del Arduino Mega 2560
+## ***1) INSTALACIÓN***
 
 Adds ons > Get Hardware support packages > Arduino > Simulink > setup >
 test conection
 SIN MODO ADMINISTRADOR ; No instalar drivers > verifcar administrador dispositivo windows > Serial > Arduino Mega 2560
 
-# 2) CONFIGURAR MODELO
+## ***2) CONFIGURAR MODELO***
 
 Model configuration parameters > Hardware Implementation >Hardware board > Arduino Mega 2560
 SI NO RECONOCE ARDUINO; Hacemos los mismos pasos y además “target > Host connections > manually > com x”
 
-# 3) MODOS DE EJECUCIÓN
+## ***3) MODOS DE EJECUCIÓN***
 
 Simulación solo Pc
 Hardware
@@ -85,7 +85,7 @@ Hardware
 - External <-- ej.target
 - Deploy -->Target + arduino
 
-# 4) BLOQUES QUE USAREMOS
+## ***4) BLOQUES QUE USAREMOS***
 
 - Digital input
 - Digital output
